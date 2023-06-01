@@ -36,7 +36,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ##### here is how you can reach me; 
-<a href="https://www.linkedin.com/in/yasin-yusuf-avc%C4%B1-36394265/">
+<a href="https://www.linkedin.com/in/yyavci/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 <!--
