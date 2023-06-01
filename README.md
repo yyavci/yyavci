@@ -1,7 +1,4 @@
 ### Hello there! 👋 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif" width="100"/>
-</div>
 ### **This is _Yusuf_.** I'm a senior software developer with 10+ years of experience.
 
 #### Here is quick overview of my skills;
