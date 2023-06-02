@@ -1,6 +1,5 @@
 ### Hello there! 👋 
-### **This is _Yusuf_.** I'm a senior software developer with 10+ years of experience.
-
+#### **This is _Yusuf_.** I'm a senior software developer with 10+ years of experience.
 #### Here is quick overview of my skills;
 
 #### 👨‍💻 I'm pretty much expert at;
